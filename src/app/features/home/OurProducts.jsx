@@ -29,8 +29,8 @@ const OurProducts = () => {
               }}
             >
               <h2 className="text-4xl font-bold">{product.title}</h2>
-              <p className="font-base text-justify">{product?.partnerShip}</p>
-              <p className="font-base text-justify">{product.description}</p>
+              <p className="font-base text-left">{product?.partnerShip}</p>
+              <p className="font-base text-left">{product.description}</p>
               <div className="md:flex-row flex flex-col gap-6 mt-8">
                 {product.googlePlayLink && (
                   <GooglePlayButton url={product.googlePlayLink} />

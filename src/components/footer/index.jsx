@@ -41,11 +41,9 @@ export default function Footer() {
               />
             </Link>
             <p className="max-w-sm text-sm">
-              Animate Education, are experts in producing high quality
-              educational 2D and 3D videos that a child can relate to. By
-              teaching through fun and interactive videos and games, which
-              support class based learning, each child can develop at the
-              appropriate rate and in a manner that is unique to them.
+              We&apos;re a UK based edtech company, a dynamic team with over 50 years
+              of creating games and learning apps that students love. We work
+              with love and passion for you.
             </p>
           </div>
           <div className="flex flex-row flex-wrap gap-12 p-5 border rounded-lg shadow-md">

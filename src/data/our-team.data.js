@@ -6,7 +6,7 @@ import arunImage from "@/assets/images/our-team/arunK.png"
 
 const ourTeamData = [
   {
-    name: "Namit Kapur",
+    name: "Namit Kapoor",
     designation: "Founder & Director",
     image: namitImage,
     description:

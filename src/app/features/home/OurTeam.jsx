@@ -36,7 +36,7 @@ const OurTeam = () => {
                   <p
                     className={`${
                       isEven ? "ml-auto" : "ml-0"
-                    } font-base md:w-1/2 text-justify`}
+                    } font-base md:w-1/2 text-left`}
                   >
                     {teamMember.description}
                   </p>
