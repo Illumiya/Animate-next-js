@@ -14,7 +14,7 @@ const AboutUs = () => {
         <h2 className="text-4xl font-bold">About us</h2>
 
         <p className="font-base min-w-1/2 text-left">
-          We’re a UK based ed-tech company, a dynamic team with over 50 years of
+          We’re an ed-tech company, a dynamic team with over 50 years of
           creating games and learning apps that students love. Based on
           extensive experience and a desire to help modern children learn a lot
           of information that is presented to them in the form of school
