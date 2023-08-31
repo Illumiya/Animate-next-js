@@ -41,7 +41,7 @@ export default function Footer() {
               />
             </Link>
             <p className="max-w-sm text-sm">
-              We&apos;re a UK based edtech company, a dynamic team with over 50 years
+              We&apos;re a global edtech company, a dynamic team with over 50 years
               of creating games and learning apps that students love. We work
               with love and passion for you.
             </p>
